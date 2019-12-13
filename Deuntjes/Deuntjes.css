@@ -1,0 +1,126 @@
+body {
+      background-color: #1db954;
+
+}
+
+
+#divcolor {
+      background-color: #1db954;
+      width: 50%;
+      text-align: right;
+      margin-left: auto;
+      margin-right: auto;
+
+
+}
+
+#balk {
+      background-color: #191414;
+      color: white;
+      position: fixed;
+      width: 100%;
+      height: 4em;
+      padding: 0;
+      padding-left: 0;
+      margin: 20px;
+      top: 0;
+      font-size: 20px;
+      z-index: 1;
+
+}
+
+#buttonholder a {
+      float: center;
+}
+
+#buttonholder a {
+      text-decoration: none;
+      color: white;
+      display: inline-block;
+      padding: 15px;
+      margin: 0;
+      height: 1.7em;
+      padding-top: 1.5em;
+      border-right-color: black;
+
+
+}
+
+#buttonholder a:hover {
+      background: #5a595a;
+      box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+#sidebar {
+
+      background-color: #191414;
+      color: white;
+      position: fixed;
+      width: 10.75%;
+      height: 100%;
+      margin: 20px; 
+      margin-top:31px; 
+      top: 0;
+      font-size: 20px;
+      z-index: 2;
+}
+
+#imgsidebar {
+
+      background-color: #191414;
+      color: white;
+      position: fixed;
+      width: 8%;
+      height: 100%;
+      margin: 20px;
+      top: 0;
+      font-size: 20px;
+      z-index: 3;
+
+}
+
+
+
+table {
+      margin-left: auto;
+      margin-right: auto;
+}
+
+#sidebarbuttons a {
+      float: center;
+}
+
+#sidebarbuttons a {
+      text-decoration: none;
+      color: white;
+      display: block;
+      padding: 15px;
+      margin: 0;
+      height: 1.7em;
+      padding-top: 1.5em;
+      border-right-color: black;
+}
+
+#sidebarbuttons a:hover {
+      background: #5a595a;
+      box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+#video a {
+      float: center;
+}
+
+
+a:link {
+      color: white;
+}
+
+a:visited {
+      color: blue;
+}
+
+a:hover {
+      color: red;
+}
