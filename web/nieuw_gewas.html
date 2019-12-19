@@ -3,10 +3,10 @@
         <title>Data overzicht</title>
     </head>
     <body>
-    <form action="nieuwGewas.php" method="post">
-        Gewasgroep: <input type="text" name="name"><br>
-        Gemiddelde opbrengst: <input type="text" name="email"><br>
-        Bijzonderheden: <input type="text" name="email"><br>
+    <form action="../src/nieuwGewas.php" method="post">
+        Gewasgroep: <input type="text" name="gewasgroep" required maxlength="20"><br>
+        Gemiddelde opbrengst: <input type="number" name="opbrengst" required><br>
+        Bijzonderheden: <input type="text" name="bijzonderheden"><br>
         <input type="submit">
     </form>
     </body>
