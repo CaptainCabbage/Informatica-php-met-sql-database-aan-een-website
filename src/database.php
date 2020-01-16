@@ -6,7 +6,7 @@
     <?php 
     $servername = "127.0.0.1";
 $username = "u392629804_usergroep3";
-$password = "E&=9HA3l";
+$password = "E&=9HA30";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
